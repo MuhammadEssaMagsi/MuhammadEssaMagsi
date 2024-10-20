@@ -64,6 +64,7 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test post 1](https://dev.to/muhammadessamagsi/test-post-1-1ec9)
 <!-- BLOG-POST-LIST:END -->
 
 
