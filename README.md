@@ -55,9 +55,10 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuhammadEssaMagsi&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadessamagsi&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadEssaMagsi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
@@ -67,6 +68,8 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 - [Test post 1](https://dev.to/muhammadessamagsi/test-post-1-1ec9)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 
