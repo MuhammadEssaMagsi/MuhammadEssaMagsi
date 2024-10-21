@@ -12,6 +12,9 @@
     <a href="http://www.instagram.com/magsimuhammadessa">
       <img src="https://img.shields.io/badge/Instagram-palevioletred?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
+    <a href="wa.me/923322147896">
+      <img src="https://img.shields.io/badge/WhatsApp-lemon?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge" />
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=MuhammadEssaMagsi&style=flat-square&color=blue" alt=""/>
   <h1>
