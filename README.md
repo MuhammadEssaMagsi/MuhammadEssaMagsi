@@ -37,7 +37,7 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: I love reading books and articles in my free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadessamagsi/)
+- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-deeppink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/magsimuhammadessa) [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-lemon?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/923322147896)
 
 ---
 
