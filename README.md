@@ -68,6 +68,7 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Common Mistakes Beginners Make with JavaScript](https://dev.to/magsimuhammadessa/5-common-mistakes-beginners-make-with-javascript-4bj5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- HTML -->
