@@ -23,7 +23,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm15dzA1a2I2emY3YXdyazg2YmFyY2F0eDNjOHU1Njg3anpsMjAzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25UxpWoNBu8nOtURm9/giphy.gif" width="600">
+<a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
 </div>
 
 ---
