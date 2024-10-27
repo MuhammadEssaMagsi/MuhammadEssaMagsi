@@ -25,6 +25,9 @@
 <div align="center">
 
 <!--div>Daily dev card</div-->  
+<a href="https://app.daily.dev/muhammadessa">
+<img src="./devcard.png" width="356" alt="Muhammad Essa`s Dev Card"/>
+</a>
 
 </div>
 
