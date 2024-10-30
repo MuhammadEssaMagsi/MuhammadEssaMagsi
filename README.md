@@ -73,10 +73,10 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Simple Frontend Web Development Roadmap: A Guide for Beginners](https://dev.to/magsimuhammadessa/the-simple-frontend-web-development-roadmap-a-guide-for-beginners-32i5)
 - [The story behind John Doe](https://dev.to/magsimuhammadessa/the-story-behind-john-doe-3pbl)
 - [A Beginner&#39;s Guide to the CSS Box Model](https://dev.to/magsimuhammadessa/a-beginners-guide-to-the-css-box-model-4hc5)
 - [Understanding CSS Size Units: px, em, rem, %, and More](https://dev.to/magsimuhammadessa/understanding-css-size-units-px-em-rem-and-more-48k4)
-- [Understanding Semantic HTML: Why It Matters](https://dev.to/magsimuhammadessa/understanding-semantic-html-why-it-matters-4mh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- HTML -->
