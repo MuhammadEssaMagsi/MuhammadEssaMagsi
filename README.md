@@ -62,11 +62,22 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadessamagsi&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammadessamagsi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadessamagsi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadessamagsi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadEssaMagsi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammadessamagsi&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Developer Jokes
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muhammadessamagsi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -80,7 +91,6 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 <!-- BLOG-POST-LIST:END -->
 
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 
