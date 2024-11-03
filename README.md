@@ -83,7 +83,7 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :writing_hand: Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --> 
 - [Exploring ChatGPT&#39;s New Search Feature: A Powerful Tool for Real-Time Information](https://dev.to/magsimuhammadessa/exploring-chatgpts-new-search-feature-a-powerful-tool-for-real-time-information-d7e)
 - [Responsive Typography: Making Text Adapt to All Screens](https://dev.to/magsimuhammadessa/responsive-typography-making-text-adapt-to-all-screens-29p3)
 - [The Simple Frontend Web Development Roadmap: A Guide for Beginners](https://dev.to/magsimuhammadessa/the-simple-frontend-web-development-roadmap-a-guide-for-beginners-32i5)
