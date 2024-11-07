@@ -4,7 +4,7 @@
 <div align="center">
 <!--div>Daily dev card</div-->  
 <a href="https://app.daily.dev/muhammadessa">
-<img src="https://api.daily.dev/devcards/v2/lRQYSB62CKRZvt4vuzU4T.png?type=wide&r=lqb" width="80%" alt="Muhammad Essa`s Dev Card"/>
+<img src="https://api.daily.dev/devcards/v2/lRQYSB62CKRZvt4vuzU4T.png?type=wide&r=lqb" width="90%" alt="Muhammad Essa`s Dev Card"/>
 </a>
 
 </div>
