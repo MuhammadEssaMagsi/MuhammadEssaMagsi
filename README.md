@@ -85,10 +85,10 @@ I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Neomorphic Design in Web Development: What It Is, How to Achieve It, and When to Use It](https://dev.to/magsimuhammadessa/understanding-neomorphic-design-in-web-development-what-it-is-how-to-achieve-it-and-when-to-use-it-2i0l)
 - [Exploring ChatGPT&#39;s New Search Feature: A Powerful Tool for Real-Time Information](https://dev.to/magsimuhammadessa/exploring-chatgpts-new-search-feature-a-powerful-tool-for-real-time-information-d7e)
 - [Responsive Typography: Making Text Adapt to All Screens](https://dev.to/magsimuhammadessa/responsive-typography-making-text-adapt-to-all-screens-29p3)
 - [The Simple Frontend Web Development Roadmap: A Guide for Beginners](https://dev.to/magsimuhammadessa/the-simple-frontend-web-development-roadmap-a-guide-for-beginners-32i5)
-- [The story behind John Doe](https://dev.to/magsimuhammadessa/the-story-behind-john-doe-3pbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- HTML -->
