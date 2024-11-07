@@ -21,6 +21,12 @@
     <a href="https://wa.me/923322147896">
       <img src="https://img.shields.io/badge/WhatsApp-lemon?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge" />
     </a>
+    <a href="https://www.dev.to/magsimuhammadessa">
+      <img src="https://img.shields.io/badge/dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black" alt="Dev.to Badge" />
+    </a>
+    <a href="https://app.daily.dev/muhammadessa">
+      <img src="https://img.shields.io/badge/daily.dev-black?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev Badge" />
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=MuhammadEssaMagsi&style=flat-square&color=blue" alt=""/>
 </div>
